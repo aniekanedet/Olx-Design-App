@@ -1,16 +1,24 @@
 {
-  "name": "OLX.com.ng",
+  "name": "olx-design-app",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d build "
+    "deploy": "gh-pages -d build"
   },
   "keywords": [],
-  "author": "",
+  "author": "aniekan edet",
   "license": "ISC",
   "homepage": "https://aniekanedet.github.io/Olx-Design-App",
   "dependencies": {
     "gh-pages": "^2.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniekanedet/Olx-Design-App.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aniekanedet/Olx-Design-App/issues"
+  },
+  "description": ""
 }
